@@ -1,0 +1,172 @@
+[
+    { 
+        "wcode": "0",
+        "category": "Clear",
+        "description": "Clear sky"
+    },
+
+    { 
+        "wcode": "1",
+        "category": "Clear",
+        "description": "Mainly clear"
+    },
+
+
+    { 
+        "wcode": "2",
+        "category": "Cloudy",
+        "description": "Partly cloudy"
+    },
+
+    { 
+        "wcode": "3",
+        "category": "Cloudy",
+        "description": "Overcast"
+    },
+
+    { 
+        "wcode": "45",
+        "category": "Fog",
+        "description": "Fog"
+    },
+
+    { 
+        "wcode": "48",
+        "category": "Fog",
+        "description": "Depositing rime fog"
+    },
+
+    { 
+        "wcode": "51",
+        "category": "Rain",
+        "description": "Drizzle: Light"
+    },
+
+    { 
+        "wcode": "53",
+        "category": "Rain",
+        "description": "Drizzle: Moderate"
+    },
+
+    { 
+        "wcode": "55",
+        "category": "Rain",
+        "description": "Drizzle: Dense Intensity"
+    },
+
+    { 
+        "wcode": "56",
+        "category": "Rain",
+        "description": "Freezing Drizzle: Light"
+    },
+
+    { 
+        "wcode": "57",
+        "category": "Raing",
+        "description": "Freezing Drizzle: Dense Intensity"
+    },
+
+    { 
+        "wcode": "61",
+        "category": "Rain",
+        "description": "Rain: Slight"
+    },
+
+    { 
+        "wcode": "63",
+        "category": "Rain",
+        "description": "Rain: Moderate"
+    },
+
+    { 
+        "wcode": "65",
+        "category": "Rain",
+        "description": "Rain: Heavy"
+    },
+
+    { 
+        "wcode": "66",
+        "category": "Rain",
+        "description": "Freezing Rain: Light"
+    },
+
+    { 
+        "wcode": "67",
+        "category": "Rain",
+        "description": "Freezing Rain: Heavy"
+    },
+
+    { 
+        "wcode": "71",
+        "category": "Snow",
+        "description": "Snow Fall: Slight"
+    },
+
+    { 
+        "wcode": "73",
+        "category": "Snow",
+        "description": "Snow Fall: Moderate"
+    },
+
+    { 
+        "wcode": "75",
+        "category": "Snow",
+        "description": "Snow Fall: Heavy"
+    },
+
+    { 
+        "wcode": "77",
+        "category": "Snow",
+        "description": "Snow grains"
+    },
+
+    { 
+        "wcode": "80",
+        "category": "Rain",
+        "description": "Rain showers: Slight"
+    },
+
+    { 
+        "wcode": "81",
+        "category": "Rain",
+        "description": "Rain showers: Moderate"
+    },
+
+    { 
+        "wcode": "82",
+        "category": "Rain",
+        "description": "Rain showers: Violent"
+    },
+
+    { 
+        "wcode": "85",
+        "category": "Rain",
+        "description": "Snow showers: Slight"
+    },
+
+
+    { 
+        "wcode": "86",
+        "category": "Rain",
+        "description": "Snow showers: Heavy"
+    },
+
+    { 
+        "wcode": "95",
+        "category": "Thunderstorm",
+        "description": "Thunderstorm"
+    },
+
+    { 
+        "wcode": "96",
+        "category": "Thunderstorm",
+        "description": "Thunderstorm with Hail: Slight"
+    },
+
+    { 
+        "wcode": "99",
+        "category": "Thunderstorm",
+        "description": "Thunderstorm with Hail: Heavy"
+    }
+
+]

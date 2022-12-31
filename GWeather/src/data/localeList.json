@@ -1,0 +1,25 @@
+[
+    {
+        "location": "London",
+        "country": "England",
+        "latitude": "51.51",
+        "longitude": "-0.13",
+        "timezone": "Europe%2FLondon"
+    },
+
+    {
+        "location": "New York", 
+        "country": "Unites States",
+        "latitude": "40.71",
+        "longitude": "-74.01",
+        "timezone": "America%2FNew_York"
+    },
+
+    {
+        "location": "Seoul",
+        "country": "South Korea",
+        "latitude": "37.57",
+        "longitude": "126.98",
+        "timezone": "Asia%2FTokyo"
+    }
+]

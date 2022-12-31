@@ -1,0 +1,7 @@
+{
+  "name": "GWeather",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

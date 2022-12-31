@@ -1,0 +1,15 @@
+img {
+    width: 100%;
+}
+
+ion-card-title {
+    font-size: xx-large;
+}
+
+ion-card-subtitle {
+    font-size: large;
+}
+
+ion-card-header {
+    --background: white;
+}
